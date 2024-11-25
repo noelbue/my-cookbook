@@ -1,0 +1,75 @@
+[
+    {
+        "id": "ricotta-aus-dem-ofen",
+        "name": "Ricotta aus dem Ofen",
+        "description": "Eine heisse Apéro-Idee: Ricotta aus dem Ofen mit Pistazien, gerösteter Baguette und Olivenöl-Honig-Dressing.",
+        "prepTime": 10,
+        "cookTime": 20,
+        "totalTime": 30,
+        "type": "vegetarisch",
+        "persons": 4,
+        "category": "Italienische Rezepte",
+        "imageUrl": "ricotta-aus-dem-ofen.jpg",
+        "ingredients": [
+            {
+                "amount": "500 g",
+                "ingredient": "Ricotta (2 Becher je ca. 250 g)"
+            },
+            {
+                "amount": "6 Zweiglein",
+                "ingredient": "Thymian"
+            },
+            {
+                "amount": "50 g",
+                "ingredient": "ungesalzene geschälte Pistazien"
+            },
+            {
+                "amount": "2 EL",
+                "ingredient": "Olivenöl"
+            },
+            {
+                "amount": "200 g",
+                "ingredient": "Baguette"
+            },
+            {
+                "amount": "1 EL",
+                "ingredient": "Aceto balsamico bianco"
+            },
+            {
+                "amount": "2 EL",
+                "ingredient": "Olivenöl"
+            },
+            {
+                "amount": "1 EL",
+                "ingredient": "flüssiger Honig"
+            },
+            {
+                "amount": "0.25 TL",
+                "ingredient": "Salz"
+            },
+            {
+                "amount": "wenig",
+                "ingredient": "Pfeffer"
+            }
+        ],
+        "instructions": [
+            "Ofen auf 200 Grad vorheizen.",
+            "Ricotta aus den Bechern in die vorbereitete Form stürzen. Thymianblättchen abzpfen, Pistazien grob hacken, beides mit dem Öl mischen, auf dem Ricotta verteilen.",
+            "Backen: ca. 20 Min. in der Mitte des Ofens.",
+            "Baguette in Scheiben schneiden, in einer heissen Bratpfanne beidseitig je ca. 2 Min. rösten. Aceto, Öl und Honig verrühren, würzen, mit den Baguettescheiben zum Ricotta servieren."
+        ],
+        "nutritionFacts": {
+            "calories": 533,
+            "fat": 33,
+            "carbs": 40,
+            "protein": 17
+        },
+        "additionalInfo": {
+            "servingSize": "Vorspeise für 4 Personen",
+            "equipment": "Ofenfeste Form von ca. 1 Liter, gefettet",
+            "tips": [
+                "Erfolgreich stürzen: Stechen Sie mit einem spitzen Messer ein Loch in den Boden des Ricottabechers."
+            ]
+        }
+    }
+]
